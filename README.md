@@ -1,7 +1,7 @@
-# ia-gemini
+# ✅ Ia Gemini
 Perguntas e repostas com IA Gemini
 
-# Py
+# ✅ Py
 - app.py
   Esse py faz perguntas simples e não salva nada.
 - app2.py
